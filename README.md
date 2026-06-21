@@ -1,6 +1,5 @@
-- 👋 Hello World!
 
-# Hi, I'm Mark 👋
+# Hello World, I'm Mark 👋
 
 Founder of **[LUQ Labs](https://luqlabs.com)** · B.S., UC Irvine
 
